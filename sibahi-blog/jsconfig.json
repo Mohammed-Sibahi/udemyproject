@@ -1,0 +1,5 @@
+{
+    "compilerOptions": {
+        "baseUrl": "." // this will reference the root folder application. this means there's no need to use ../ when referencing a file in another folder
+    }
+}
